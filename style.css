@@ -1,0 +1,49 @@
+#heading{
+    text-align: center;
+}
+#image{
+    align-items: center;
+}
+#center{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    object-fit: none;
+    object-position: center top;
+}
+body{
+    font-family: arial;
+}
+#color{
+    background-color: blue;
+    color: aliceblue;
+}
+#nav{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
+#heading{
+    text-align: center;
+    color: red;
+    
+}
+#nav-bar{
+   background-color: blue;
+}
+ul li{
+   list-style: none;
+   display: inline-block;
+   color: aliceblue;
+   margin: 10px;
+   padding-right: 5px;
+  
+}
+#menu-right{
+   text-align: right;
+  padding: 2px;
+
+}
+#head{
+}
